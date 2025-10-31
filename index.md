@@ -1,1 +1,2 @@
-Added header 
+# Learning about Github #
+
