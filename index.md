@@ -6,3 +6,7 @@
 float  dec = 3.14;
 var mult = dec * 6;
 ```
+
+- [x] learn more about github
+- [x] edit a markdown file
+- [ ] create some code
